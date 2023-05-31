@@ -1,0 +1,88 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.sec2 {
+    display: flex;
+    justify-content: space-between;
+    padding: 5% 0% 5% 5%;
+    margin-top: 2%;
+}
+.upi {
+    margin-left: 3%;
+}
+.one {
+    margin-top: 5%;
+    font-size: 60px;
+    margin-left: 3%;
+}
+.two {
+    font-size: 60px;
+    margin-left: 3%;
+}
+.para {
+    font-size: 24px;
+    font-weight: normal;
+    margin-left: 3%;
+    margin-top: 6%;
+}
+#app {
+    border: 1px solid black;
+    width: 38%;
+    border-radius: 23px;
+    padding: 2%;
+    background-color: black;
+    color: white;
+    font-size: 17px;
+    margin-left: 4%;
+    cursor: pointer;
+}
+#app:hover{
+    background-color: white;
+    color: black;
+}
+#app i{
+    margin: 0% 2%;
+}
